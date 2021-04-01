@@ -1,5 +1,7 @@
 # my-promise
 
+[Promise/A+](https://promisesaplus.com/)
+
 ## Installation
 
 ```cmd
@@ -23,5 +25,3 @@ yarn test
 ```cmd
 yarn build
 ```
-
-[Promise/A+](https://promisesaplus.com/)
